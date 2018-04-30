@@ -10,9 +10,14 @@ What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+	You can pick and choose which files can be added to the staging area using
+	the git add command.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+	Branches can be helpful when making experimental changes, but the master
+	branch needs to remain unchanged.
 
 How do the diagrams help you visualize the branch structure?
 
